@@ -4,6 +4,9 @@
 ## Trello
 ### https://trello.com/b/FZC8jFJX/fe-grupparbete
 
+## Projektbeskrivning
+### -
+
 ## Instruktioner
 ### npm install
 
