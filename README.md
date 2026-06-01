@@ -59,6 +59,7 @@
 ## Instruktioner (Bash)
 #### cd client > npm install > npm run dev
 #### cd server > npm install > npm run dev
+#### skapa .env fil i server mappen > se env-variablerna och värdena i Teams skickat från Andreas Jonsson Roslund
 
 
 ## Huvud-ansvarsområden
